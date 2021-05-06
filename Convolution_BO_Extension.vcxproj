@@ -23,6 +23,7 @@
     <ProjectGuid>{1A1A5CB8-98A4-459C-8FD4-713B5BBCAFD4}</ProjectGuid>
     <RootNamespace>ConvolutionBOExtension</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Convolution_Gaussian_Filter_CL</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

@@ -1,0 +1,4 @@
+
+*** DEVICE (NVIDIA GeForce RTX 3070) (2021- 5- 7  4:10:30)
+--- IMAGE = 8(Data/Input/Grass_texture_2048_2048.jpg), GF_SIZE = 11, N_EXE = 7,
+     KER = 211, GWS = (2048, 2048), LWS = (32, 8), Ave_time(S_to_E): 1.590ms
