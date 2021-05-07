@@ -1,2 +1,0 @@
-C:\Users\ropein\Convolution_Gaussian_Filter_CL\x64\Debug\Convolution_Gaussian_Filter_CL.exe
-C:\Users\ropein\Convolution_Gaussian_Filter_CL\x64\Debug\Convolution_Gaussian_Filter_CL.pdb
