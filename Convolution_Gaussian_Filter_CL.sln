@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29905.134
+VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Convolution_BO_Extension", "Convolution_BO_Extension.vcxproj", "{1A1A5CB8-98A4-459C-8FD4-713B5BBCAFD4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Convolution_Gaussian_Filter_CL", "Convolution_Gaussian_Filter_CL.vcxproj", "{1A1A5CB8-98A4-459C-8FD4-713B5BBCAFD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {7AFA0C45-CE93-4607-AF5D-1195EF9150F8}
+		SolutionGuid = {35975351-B8B0-4BE8-997B-7E5EA0966E23}
 	EndGlobalSection
 EndGlobal
